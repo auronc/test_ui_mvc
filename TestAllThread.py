@@ -1,5 +1,5 @@
 from PyQt5 import QtCore
-from WorkThread import WorkerThread
+from WorkerThread import WorkerThread
 
 
 class TestAllThread(QtCore.QThread):

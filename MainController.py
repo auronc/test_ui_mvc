@@ -1,4 +1,4 @@
-from WorkThread import WorkerThread
+from WorkerThread import WorkerThread
 from TestAllThread import TestAllThread
 
 
